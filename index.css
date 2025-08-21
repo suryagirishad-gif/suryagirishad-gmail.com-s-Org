@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f0f2f5;
+  font-family: 'Google Sans', sans-serif, system-ui;
+}
